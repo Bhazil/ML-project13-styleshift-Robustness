@@ -1,8 +1,9 @@
 # Project 13: Style Shift Robustness in Visual Recognition
 
 ## Team Members
-Bhazil Bakruthin Ali ahamed
-yuvaraj rengaraj
+
+- Bhazil Bakruthin Ali Ahamed
+- Yuvaraj Rengaraj
 
 
 ## Objective
